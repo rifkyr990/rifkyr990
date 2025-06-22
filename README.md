@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👨‍💻 Hello! I'm Rifky Ramadhan 👋
 
-<!--
-**rifkyr990/rifkyr990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer** | **JavaScript/TypeScript** Enthusiast | **React** & **Node.js** Lover  
+🔧 Building responsive, user-centric applications with modern web technologies.  
+🌍 Passionate about creating meaningful experiences on the web with the latest frameworks.
 
-Here are some ideas to get you started:
+#### Skills & Technologies:
+- 🌐 **Frontend:** React, Next.js, Tailwind CSS, Vue.js
+- 🔧 **Backend:** Node.js, Express.js, GraphQL
+- 💾 **Database:** MongoDB, PostgreSQL, MySQL
+- 💻 **Version Control:** Git, GitHub, GitLab
+- 🛠 **CI/CD:** Docker, GitHub Actions
+- 💡 **Tools:** VS Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects & Contributions:
+- 🔗 [Portfolio](https://your-portfolio-link.com)
+- 🏆 Contributed to various open-source projects related to web development, DevOps, and UI/UX design.
+- 🚀 Working on improving accessibility and performance in every project I touch.
+
+Feel free to reach out if you'd like to collaborate on a project!  
+📫 **Contact:** [email@domain.com](mailto:rifkyrmdhn640@gmail.com)
