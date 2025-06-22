@@ -18,4 +18,4 @@
 - 🚀 Working on improving accessibility and performance in every project I touch.
 
 Feel free to reach out if you'd like to collaborate on a project!  
-📫 **Contact:** [email@domain.com](mailto:rifkyrmdhn640@gmail.com)
+📫 **Contact:** [rifkyrmdhn640@gmail.com](mailto:rifkyrmdhn640@gmail.com)
