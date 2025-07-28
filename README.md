@@ -13,7 +13,7 @@
 - 💡 **Tools:** VS Code, Figma
 
 #### Projects & Contributions:
-- 🔗 [Portfolio](https://your-portfolio-link.com)
+- 🔗 [Portfolio](https://rifky-dev.vercel.app/)
 - 🏆 Contributed to various open-source projects related to web development, DevOps, and UI/UX design.
 - 🚀 Working on improving accessibility and performance in every project I touch.
 
