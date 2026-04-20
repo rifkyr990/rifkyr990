@@ -5,8 +5,8 @@
 🌍 Passionate about creating meaningful experiences on the web with the latest frameworks.
 
 #### Skills & Technologies:
-- 🌐 **Frontend:** React, Next.js, Tailwind CSS, Vue.js
-- 🔧 **Backend:** Node.js, Express.js, GraphQL
+- 🌐 **Frontend:** React, Next.js, Tailwind CSS, Blazor
+- 🔧 **Backend:** Node.js, Express.js, ASP .NET Core
 - 💾 **Database:** MongoDB, PostgreSQL, MySQL
 - 💻 **Version Control:** Git, GitHub, GitLab
 - 🛠 **CI/CD:** Docker, GitHub Actions
